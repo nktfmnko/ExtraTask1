@@ -5,6 +5,3 @@ double MultiplyBy2(double x){
 void main(){
   print(MultiplyBy2(2));
 }
-
-ломаем проект
-опять
